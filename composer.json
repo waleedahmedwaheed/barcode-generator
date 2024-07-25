@@ -1,0 +1,7 @@
+{
+    "name": "waleedahmedwaheed/barcode-generator",
+    "description": "A simple PHP barcode generator.",
+    "require": {
+        "picqer/php-barcode-generator": "^0.4.0"
+    }
+}
